@@ -72,8 +72,25 @@ body {
     color: #ffe6d8;
     padding: 20px;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .boardcontainer {
     padding-bottom: 20px;
+}
+
+#links {
+    text-align: center;
+}
+
+a {
+    color:#ffe6d8;
+}
+
+a:visited {
+    color: #ffcba4;
+}
+
+a:hover {
+    color: #DE7E5D;
 }
