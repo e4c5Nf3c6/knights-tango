@@ -10,6 +10,22 @@ body {
 
 #board {
     width: 400px;
+    height: 400px;
     text-align: center;
     border: 3px solid #000;
+}
+
+.opening {
+    text-align: center;
+}
+.continuations {
+    text-align: center;
+    list-style-position: inside;
+    padding: 0px
+}
+
+#moves {
+    text-align: center;
+    list-style-position: inside;
+    padding: 0px
 }
