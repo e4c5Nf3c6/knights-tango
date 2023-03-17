@@ -1,4 +1,8 @@
-const h2 = document.createElement("h2");
-h2.textContent = "The Knights' Tango is an opening by black in response to the Queen's Gambit";
+var input = document.getElementById('board');
+input.addEventListener('click', moveForward)
 
-document.querySelector("body").appendChild(h2);
+function moveForward() {
+    if (input.src="Media/startingposition.png") {
+        input.src="Media/move2b.png";
+    }
+}
