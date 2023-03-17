@@ -16,7 +16,7 @@ body {
 }
 
 #continuations {
-    background-color: antiquewhite;
+    background-color:#ffe6d8;
     padding-top: 20px;
     padding-bottom: 20px;
     border: 5px solid #000;
@@ -60,4 +60,14 @@ body {
 
 .alternate {
     padding-top: 10px;
+}
+
+.title {
+    background-color: #000;
+    color: #ffe6d8;
+    padding: 20px
+}
+
+.boardcontainer {
+    padding-top: 50px;
 }
