@@ -15,3 +15,21 @@ function moveForward() {
         input.src="Media/startingposition.png";
     }
 }
+
+
+/* var expand1 = document.getElementById('expand1');
+expand1.addEventListener('click', expand);
+
+function expand() {
+    var childList = expand1.getElementsByTagName('ol');
+    for (var x = 0; x < childList.length; x++) {
+        var currentState = childList[x].style.display;
+        if (currentState.match("none")) {
+            childList[x].style.display="block";
+        }
+        else {
+            childList[x].style.display="none";
+        }
+    }
+}
+*/

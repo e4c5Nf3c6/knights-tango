@@ -24,7 +24,7 @@ body {
     padding-top: 20px;
     padding-bottom: 20px;
     border: 5px solid #000;
-    margin: 0px 20px 20px;
+    margin: 20px 20px 20px;
 }
 
 .opening {
@@ -71,7 +71,6 @@ body {
     background-color: #000;
     color: #ffe6d8;
     padding: 20px;
-    margin-bottom: 20px;
     text-align: center;
 }
 
