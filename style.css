@@ -79,7 +79,7 @@ body {
     padding-bottom: 20px;
 }
 
-a {
+a:link {
     color:#ffe6d8;
 }
 
