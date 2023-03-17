@@ -1,4 +1,5 @@
-body {
-    background: #FAF9F6;
+.intro {
+    border: none;
+    padding: 20px;
     text-align: center;
 }
